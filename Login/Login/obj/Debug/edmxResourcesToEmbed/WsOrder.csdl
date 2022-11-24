@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbWsOrderModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="pembayaran">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nama" Type="String" MaxLength="30" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="order" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="no_pemesanan" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="pemesanan">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nama_menu" Type="String" MaxLength="30" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="harga" Type="Int32" Nullable="false" />
+    <Property Name="total_harga" Type="Int32" Nullable="false" />
+    <Property Name="jumlah" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="dbWsOrderEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="pembayarans" EntityType="Self.pembayaran" />
+    <EntitySet Name="pemesanans" EntityType="Self.pemesanan" />
+  </EntityContainer>
+</Schema>

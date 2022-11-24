@@ -1,0 +1,23 @@
+﻿<Window x:Class="Login.Pemesanan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Pemesanan" Height="450" Width="800"
+        WindowStyle="None"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+    <Window.Background>
+        <ImageBrush ImageSource="D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\assets\bgg.jpg" Stretch="Fill"/>
+    </Window.Background>
+    <Grid>
+        <Image Source="D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\assets\ws.png" Margin="10,10,558.333,338.333"/>
+        <Label Content="Nama Menu" Foreground="White" HorizontalAlignment="Left" Margin="160,221,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

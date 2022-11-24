@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WsOrderModelStoreContainer" CdmEntityContainer="WsOrderEntities">
+    <EntitySetMapping Name="Pembayarans">
+      <EntityTypeMapping TypeName="WsOrderModel.Pembayaran">
+        <MappingFragment StoreEntitySet="Pembayaran">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="nama_pemesan" ColumnName="nama_pemesan" />
+          <ScalarProperty Name="Order" ColumnName="Order" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Harga" ColumnName="Harga" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pemesanans">
+      <EntityTypeMapping TypeName="WsOrderModel.pemesanan">
+        <MappingFragment StoreEntitySet="pemesanan">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="nama_menu" ColumnName="nama_menu" />
+          <ScalarProperty Name="harga" ColumnName="harga" />
+          <ScalarProperty Name="jumlah" ColumnName="jumlah" />
+          <ScalarProperty Name="total" ColumnName="total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

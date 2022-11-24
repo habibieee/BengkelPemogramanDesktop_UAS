@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbWsOrderModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="pembayaran">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nama" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="order" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="no_pemesanan" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="pemesanan">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nama_menu" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="harga" Type="int" Nullable="false" />
+    <Property Name="total_harga" Type="int" Nullable="false" />
+    <Property Name="jumlah" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="dbWsOrderModelStoreContainer">
+    <EntitySet Name="pembayaran" EntityType="Self.pembayaran" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="pemesanan" EntityType="Self.pemesanan" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

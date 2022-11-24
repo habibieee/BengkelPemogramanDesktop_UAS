@@ -1,0 +1,110 @@
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\Login.exe.config
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\Login.exe
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\Login.pdb
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MainWindow.g.cs
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\App.g.cs
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MainWindow.baml
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.g.resources
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.exe
+D:\Semester 4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.pdb
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\App.g.cs
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.exe
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.pdb
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\Login.exe.config
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\Login.exe
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\Login.pdb
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MainWindow.g.cs
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MainWindow.baml
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.g.resources
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MenuUtama.g.cs
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MenuUtama.baml
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Menu.g.cs
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Menu.baml
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MenuMakanan.g.cs
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MenuMakanan.baml
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MenuPaket.g.cs
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\MenuPaket.baml
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\ListPemesanan.g.cs
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\MaterialDesignColors.dll
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\MaterialDesignColors.pdb
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\App.baml
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\ListPemesanan.baml
+D:\Semester4\MistiaAdinda_BAD\ProjectBAD\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\Login.exe.config
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\Login.exe
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\Login.pdb
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\MaterialDesignColors.dll
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\MaterialDesignColors.pdb
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\ListPemesanan.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\MainWindow.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Menu.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\MenuMakanan.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\MenuPaket.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\App.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\App.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\ListPemesanan.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\MainWindow.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Menu.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\MenuMakanan.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\MenuPaket.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login.g.resources
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login.exe
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login.pdb
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Kasir.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Kasir.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\MenuDetail.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\MenuDetail.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\EntityFramework.dll
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\EntityFramework.SqlServer.dll
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\EntityFramework.xml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\bin\Debug\EntityFramework.SqlServer.xml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Pemesanan.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Login_Content.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\Pemesanan.baml
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Pemesanan.baml
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Kasir.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\ListPemesanan.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Menu.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\MenuDetail.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\MenuMakanan.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\MenuPaket.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Pemesanan.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\App.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Login_Content.g.cs
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Login_MarkupCompile.cache
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Login_MarkupCompile.lref
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Login.exe
+C:\Users\Lenovo\Downloads\ProjectBAD\Login\Login\obj\Debug\Login.pdb
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\cobacoba.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\cobacoba.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\selesai.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\selesai.baml
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\halamanEdit.g.cs
+D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\Login\Login\obj\Debug\halamanEdit.baml

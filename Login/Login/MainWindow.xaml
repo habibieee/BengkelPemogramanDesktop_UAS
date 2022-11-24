@@ -1,0 +1,41 @@
+﻿<Window x:Class="Login.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        xmlns:local="clr-namespace:Login"
+        mc:Ignorable="d"        
+        WindowStyle="None"
+        Title="MainWindow" Height="750" Width="900">
+    <Window.Background>
+        <ImageBrush ImageSource="D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\assets\bgg.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Image Source="D:\Semester 4\Bengkel Aplikasi Desktop\ProjectBAD\assets\ws.png" Margin="263,36,289.6,520.8"></Image>
+        <Label Content="LOGIN" HorizontalAlignment="Left" Margin="339,205,0,0" VerticalAlignment="Top" Height="109" Width="410" FontWeight="Bold" FontSize="48" Foreground="White" FontFamily="{DynamicResource {x:Static SystemFonts.StatusFontFamilyKey}}"/>
+        <Label Content="Username" Foreground="White" Margin="148,302,624.6,359.8" FontSize="22" FontWeight="Bold" />
+        <TextBox  Background="White" x:Name="txtUsername" HorizontalAlignment="Left" Height="42" Margin="147,340,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="547" FontSize="16" FontWeight="Bold"/>
+        <PasswordBox Background="White" x:Name="txtPassword" HorizontalAlignment="Left" Height="44" Margin="148,448,0,0"  VerticalAlignment="Top" Width="547"/>
+        <Button Background="Yellow" Content="Submit" HorizontalAlignment="Left" Margin="233,556,0,0" VerticalAlignment="Top" Width="172" Height="43" Click="Button_Click_1" FontWeight="Bold" FontSize="20"/>
+        <Button Background="Yellow" Content="Cancel" HorizontalAlignment="Left" Margin="433,556,0,0" VerticalAlignment="Top" Width="171" Height="43" Click="Button_Click_2" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Password" Foreground="White" Margin="148,405,198.6,274.8" FontSize="22" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" >
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.177"/>
+                    <RotateTransform Angle="-0.481"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+    </Grid>
+    
+</Window>
